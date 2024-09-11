@@ -28,6 +28,12 @@
   --text-sm: 14px/140% var(--font-family-maven)  
 }
 
-/* .container {
+.container {
 margin-inline: 120px;
-} */
+max-width: 1366px;
+}
+
+body {
+  background-color: #15191f;
+  background-size: cover;
+  }

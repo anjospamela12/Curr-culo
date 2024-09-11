@@ -1,0 +1,32 @@
+#projects {
+  text-align: center;
+
+  header {
+    margin-top: 72px;
+  }
+}
+
+ #projects p {
+    font: var(--title-md);
+    color: #E2E4E9;
+    margin-top: 8px;
+  }
+
+
+#cards {
+  margin-block: 56px 144px;
+  margin-inline: 120px;
+  gap: 24px;
+
+  p {
+      font: var(--text-sm);
+      color: #C0C4CE;
+  }
+}
+
+
+
+
+
+
+
