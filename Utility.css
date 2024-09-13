@@ -71,3 +71,28 @@ span {
   }
   
 }
+
+.servics {
+
+  h3 {
+    font: var(--text-sm);
+    font-weight: bold;
+    color: var(--gray-600);
+  }
+
+  p {
+    color: var(--gray-500);
+  }
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+
+
+  /* a {
+    justify-self: left;
+  } */
+
+}

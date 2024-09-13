@@ -1,0 +1,45 @@
+#servics {
+  text-align: center;
+  width: 1366px;
+  height: 480px;
+  background-color: #0D0E11;
+  padding-top: 88px;
+
+  .servics {
+    p {
+      font: var(--text-sm);
+    }
+  }
+}
+
+#servics p {
+  font: var(--title-md);
+  color: #E2E4E9;
+  margin-top: 8px;
+}
+
+#card-servics {
+  gap: 24px;
+  align-content: center;
+  margin-inline: 120px;
+  margin-block: 56px 120px;
+  /* margin-bottom: 120px; */
+  text-align: start;
+
+
+  div {
+    border: 3px solid;
+    border-radius: 12px;
+    color: #e2e4e90d;
+    padding: 20px;
+  }
+
+  img {
+    margin-bottom: 20px;
+    width: 43.5px;
+    object-fit: cover;
+
+    
+  }
+
+}
